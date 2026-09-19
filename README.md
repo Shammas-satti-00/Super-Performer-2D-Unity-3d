@@ -80,7 +80,7 @@ Assets/
 
 ## 🧾 License
 This project is distributed under no specific license (for educational use only).  
-Feel free to fork, learn, and modify — credits appreciated!
+Feel free to fork, learn, and modify.
 
 ---
 
